@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="3996" started-at="2022-09-30T21:20:45 IST" finished-at="2022-09-30T21:20:49 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="3996" started-at="2022-09-30T21:20:45 IST" finished-at="2022-09-30T21:20:49 IST">
+      <class name="com.My_Maven_Projects.Testng">
+        <test-method status="PASS" signature="facebook()[pri:0, instance:com.My_Maven_Projects.Testng@7a1ebcd8]" name="facebook" duration-ms="3956" started-at="2022-09-30T21:20:45 IST" finished-at="2022-09-30T21:20:49 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- facebook -->
+        <test-method status="PASS" signature="hotstar()[pri:0, instance:com.My_Maven_Projects.Testng@7a1ebcd8]" name="hotstar" duration-ms="3135" started-at="2022-09-30T21:20:45 IST" finished-at="2022-09-30T21:20:49 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- hotstar -->
+      </class> <!-- com.My_Maven_Projects.Testng -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
